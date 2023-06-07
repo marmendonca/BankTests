@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1rs9Q1dLQGwqIT28GFRpRILsjsMRRM+OZEjlVYHGr8mugFkBlGixDSfV4YVnjeNd9b2G7BOSAL1UebfQKcQ8OA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\queir\\Documents\\work-space\\interviews\\testes-bancarios\\BankTests\\TestQuestion2\\TestQuestion2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\queir\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
