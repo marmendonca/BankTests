@@ -348,3 +348,8 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+.vs/BankTests/DesignTimeBuild/.dtbcache.v2
+.vs/BankTests/DesignTimeBuild/.dtbcache.v2
+.vs/BankTests/FileContentIndex/8b8e1d85-9b93-4dfc-972f-073698c4406e.vsidx
+.vs/BankTests/FileContentIndex/d800fefa-2e9d-4480-8b34-6a017e9ae4ce.vsidx
+.vs/BankTests/v17/.suo
